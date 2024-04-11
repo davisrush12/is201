@@ -1,0 +1,65 @@
+Body{
+    background-color: blanchedalmond;
+    color: rgb(0, 136, 255);
+    /*text color*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: rgb(218, 0, 0);
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+    /*visited link*/
+}
+
+img {
+    border: 2px solid rgb(0, 92, 172);
+    /*paddinf then border then margin*/
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    /*display: block;
+margin: auto;*/
+}
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+.rizz{
+    margin: 50px;
+    border: 2px solid rgb(218, 0, 0);
+    padding: 3px;
+    display: block;
+    margin: auto;
+}
+.rizz2:hover{
+        color: blueviolet;
+}
+li{
+    text-decoration: underline;
+}
+li:hover{
+    text-decoration: overline;
+}
+
+.rizz3{
+    font-weight: bold;
+    font-size: larger;
+    color: black;
+}
+.rizz4{
+    text-align: center;
+    font-weight: bold;
+}
